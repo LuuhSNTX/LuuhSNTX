@@ -37,6 +37,8 @@ Analytical, communicative, and creative woman, persistent and adaptable, always 
 
 <div>
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=LuuhSNTX&theme=midnight-purple&show_icons=true" height="150">
+  </br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuhSNTX&theme=midnight-purple&layout=compact" height="150">
 
 </div>
